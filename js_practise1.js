@@ -29,7 +29,7 @@ const obj = {a:"1",b:"2", c:"3"}
 // obj[a] or obj.a
 
 //obj[b] or obj.b
-
+ 
 
 let subjects=["eng","mat",28,{name :"sowji"}]
 console.log(subjects)
